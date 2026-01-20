@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;I+am+Galang+(awthentice);Web+Developer+%F0%9F%92%BB;Always+learning+%F0%9F%92%A1" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile;I+am+Kaito+Sogen;Web+Developer+%F0%9F%92%BB;Always+learning+%F0%9F%92%A1" alt="Typing Animation" />
 </p>
 
 ---
